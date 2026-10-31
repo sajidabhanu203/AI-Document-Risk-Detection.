@@ -1,0 +1,9 @@
+Document Risk Review — Sample
+
+The company may share personal data without consent. This clause requires review.
+
+The service provider may terminate without notice. The contract team should review this clause.
+
+The organization must maintain appropriate access controls and follow its documented procedures.
+
+The company will retain personal data indefinitely. This statement should be checked against the organization's retention policy.
